@@ -57,7 +57,6 @@ public class Launch {
      
 
 	}
-
 	private static void printResult(InputStream input, Channel channel) throws Exception {
 		int SIZE = 1024;
 		byte[] tmp = new byte[SIZE];
